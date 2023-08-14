@@ -24,5 +24,8 @@ No geral, a Amazon percebe que a tecnologia e a inovação são impulsionadoras 
 
 # Três exemplos de trade-off
 portabilidade x simplicidade
+
 usabilidade x segurança
+
 escalibilidade x complexibilidade
+
