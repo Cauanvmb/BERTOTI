@@ -2,8 +2,6 @@
 
 Este fraguimento de texto compara programação com engenharia de software e destaca três diferenças cruciais: tempo, escala e os compromissos envolvidos. Na engenharia de software, os engenheiros lidam mais com o passar do tempo e a necessidade futura de mudanças. Em uma organização de engenharia de software, a preocupação principal é a escala e a eficiência, tanto para o software produzido quanto para a organização que o produz. Por fim, os engenheiros de software precisam tomar decisões mais complexas com consequências mais importantes, muitas vezes com base em estimativas imprecisas de tempo e crescimento.
 
-# "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
-
 # Por que a amazon vende em um dia o que a americanas vende em um ano?
 
 A Amazon é conhecida por sua abordagem pioneira no uso da tecnologia e sua busca constante por inovação. Isso se reflete profundamente em sua plataforma de e-commerce e em como a empresa opera em geral. Aqui estão alguns aspectos importantes relacionados à tecnologia e inovação que contribuem para o sucesso da Amazon em vender mais rapidamente:
@@ -21,3 +19,6 @@ Inovações de Entrega: A Amazon revolucionou a entrega com iniciativas como o A
 Disrupção de Mercado: Através de inovações tecnológicas, a Amazon frequentemente interrompe setores estabelecidos, introduzindo novos modelos de negócios. Um exemplo disso é a Amazon Web Services (AWS), que revolucionou a computação em nuvem e se tornou uma fonte significativa de receita.
 
 No geral, a Amazon percebe que a tecnologia e a inovação são impulsionadoras fundamentais da vantagem competitiva no mundo do comércio eletrônico. Ao investir de forma contínua e estratégica nessas áreas, a empresa consegue melhorar a experiência do cliente, acelerar os processos e responder de maneira ágil às mudanças no mercado, o que contribui para a sua capacidade de vender em um ritmo mais rápido.
+
+# "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming."
+
