@@ -22,9 +22,18 @@ No geral, a Amazon percebe que a tecnologia e a inovação são impulsionadoras 
 
 ## "Within Google, we sometimes say, “Software engineering is programming integrated over time.” Programming is certainly a significant part of software engineering: after all, programming is how you generate new software in the first place. If you accept this distinction, it also becomes clear that we might need to delineate between programming tasks (development) and software engineering tasks (development, modification, maintenance). The addition of time adds an important new dimension to programming. Cubes aren’t squares, distance isn’t velocity. Software engineering isn’t programming." <br>
 
+Em resumo, o autor está discutindo a relação entre programação e engenharia de software. Eles argumentam que a engenharia de software envolve mais do que apenas a programação em si, já que também inclui atividades como desenvolvimento, modificação e manutenção ao longo do tempo. A adição do fator tempo cria uma distinção entre programação e engenharia de software. O autor usa analogias para enfatizar que esses conceitos não são idênticos, assim como cubos não são o mesmo que quadrados e distância não é o mesmo que velocidade. Eles concluem afirmando que a engenharia de software é mais abrangente do que apenas a programação.
+
 # Três exemplos de trade-off
 portabilidade x simplicidade <br>
 
 usabilidade x segurança <br>
 
 escalibilidade x complexibilidade <br>
+
+portabilidade x capacidade <br>]
+
+tendência x reginalidade <br>
+
+segurança x praticidade <br>
+
