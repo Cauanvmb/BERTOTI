@@ -24,7 +24,7 @@ No geral, a Amazon percebe que a tecnologia e a inovação são impulsionadoras 
 
 Em resumo, o autor está discutindo a relação entre programação e engenharia de software. Eles argumentam que a engenharia de software envolve mais do que apenas a programação em si, já que também inclui atividades como desenvolvimento, modificação e manutenção ao longo do tempo. A adição do fator tempo cria uma distinção entre programação e engenharia de software. O autor usa analogias para enfatizar que esses conceitos não são idênticos, assim como cubos não são o mesmo que quadrados e distância não é o mesmo que velocidade. Eles concluem afirmando que a engenharia de software é mais abrangente do que apenas a programação.
 
-# Três exemplos de trade-off
+## Três exemplos de trade-off
 portabilidade x simplicidade <br>
 
 usabilidade x segurança <br>
