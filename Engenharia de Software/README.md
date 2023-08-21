@@ -80,3 +80,8 @@ segurança x praticidade <br>
 10. Reconhecimento, diagnóstico e recuperação de erros:<br>
     - Acerto: Um aplicativo de edição de texto realça em vermelho as palavras com erros ortográficos e sugere correções à medida que o usuário digita.<br>
     - Erro: Um aplicativo de preenchimento automático não fornece nenhuma sugestão quando o usuário insere informações incorretas em um formulário.<br>
+# Exercício 4<br>
+Fazer diagrama de caso de uso <br>
+![diagrama de caso de uso](https://github.com/Cauanvmb/BERTOTI/assets/127343662/88da6dec-856f-4f55-9a77-9467e469c56c)
+
+
