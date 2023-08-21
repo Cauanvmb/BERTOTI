@@ -1,4 +1,4 @@
-#Exericício 1
+# Exericício 1
 ## "We see three critical differences between programming and software engineering: time, scale, and the trade-offs at play. On a software engineering project, engineers need to be more concerned with the passage of time and the eventual need for change. In a software engineering organization, we need to be more concerned about scale and efficiency, both for the software we produce as well as for the organization that is producing it. Finally, as software engineers, we are asked to make more complex decisions with higher-stakes outcomes, often based on imprecise estimates of time and growth." <br>
 
 Este fraguimento de texto compara programação com engenharia de software e destaca três diferenças cruciais: tempo, escala e os compromissos envolvidos. Na engenharia de software, os engenheiros lidam mais com o passar do tempo e a necessidade futura de mudanças. Em uma organização de engenharia de software, a preocupação principal é a escala e a eficiência, tanto para o software produzido quanto para a organização que o produz. Por fim, os engenheiros de software precisam tomar decisões mais complexas com consequências mais importantes, muitas vezes com base em estimativas imprecisas de tempo e crescimento. <br>
@@ -25,7 +25,7 @@ No geral, a Amazon percebe que a tecnologia e a inovação são impulsionadoras 
 
 Em resumo, o autor está discutindo a relação entre programação e engenharia de software. Eles argumentam que a engenharia de software envolve mais do que apenas a programação em si, já que também inclui atividades como desenvolvimento, modificação e manutenção ao longo do tempo. A adição do fator tempo cria uma distinção entre programação e engenharia de software. O autor usa analogias para enfatizar que esses conceitos não são idênticos, assim como cubos não são o mesmo que quadrados e distância não é o mesmo que velocidade. Eles concluem afirmando que a engenharia de software é mais abrangente do que apenas a programação.<br>
 
-#Exercício 2<br>
+# Exercício 2<br>
 ## Três exemplos de trade-off
 portabilidade x simplicidade <br>
 
