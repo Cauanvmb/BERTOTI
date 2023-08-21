@@ -39,7 +39,7 @@ tendência x regionalidade <br>
 
 segurança x praticidade <br>
 
-#Exercício 3<br>
+# Exercício 3<br>
 
 1. Visibilidade do status do sistema:<br>
    - Acerto: Um aplicativo de streaming de música exibe uma barra de progresso enquanto a música está sendo carregada, indicando que a reprodução está prestes a começar.<br>
