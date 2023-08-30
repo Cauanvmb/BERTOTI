@@ -84,4 +84,7 @@ segurança x praticidade <br>
 Fazer diagrama de caso de uso <br>
 ![diagrama de caso de uso](https://github.com/Cauanvmb/BERTOTI/assets/127343662/88da6dec-856f-4f55-9a77-9467e469c56c)
 
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/f59200df-9c1a-4d56-a70f-93130b01d5ab)
+
+
 
