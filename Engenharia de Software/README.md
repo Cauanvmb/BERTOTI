@@ -86,5 +86,6 @@ Fazer diagrama de caso de uso <br>
 
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/f59200df-9c1a-4d56-a70f-93130b01d5ab)
 
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/face576a-4dbb-4a3f-9f6e-fd1666fc4c71)
 
 
