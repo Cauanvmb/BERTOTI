@@ -88,6 +88,6 @@ Fazer diagrama de caso de uso <br>
 
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/face576a-4dbb-4a3f-9f6e-fd1666fc4c71)
 
-![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/ec24da8b-dff4-4e41-8b6b-8b03cc84078b)
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/ec24da8b-dff4-4e41-8b6b-8b03cc84078b)<br>
 (nas classes Console e especificações só tem os getters, setters e construtor)
 
