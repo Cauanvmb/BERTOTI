@@ -1,6 +1,3 @@
-/**
- * Especificacao
- */
 public class Especificacao {
     private String marca;
     private String modelo;
@@ -38,6 +35,5 @@ public class Especificacao {
     public void setCor(String cor) {
         this.cor = cor;
     }
-    
-    
+
 }

@@ -21,6 +21,13 @@ public class Console{
     public void setEspec(Especificacao espec) {
         this.espec = espec;
     }
-    
+    @Override
+    public String toString() {
+    return "Nome: " + nome + System.lineSeparator() +
+           "Marca: " + espec.getMarca() + System.lineSeparator() +
+           "Modelo: " + espec.getModelo() + System.lineSeparator() +
+           "HD: " + espec.getHd() + " GB" + System.lineSeparator() +
+           "Cor: " + espec.getCor() + System.lineSeparator();
+    }
 }
-   
+
