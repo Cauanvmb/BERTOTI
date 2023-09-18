@@ -21,5 +21,6 @@ public class Console{
     public void setEspec(Especificacao espec) {
         this.espec = espec;
     }
+    
 }
    

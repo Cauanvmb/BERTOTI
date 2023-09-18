@@ -16,13 +16,13 @@ public class Estoque {
         int numeroAdicionar = sc.nextInt();   
         for (int i = 0; i<numeroAdicionar;i+=1){
             System.out.print("Insira o nome do console: ");
-            String nome = sc.nextLine();
+            String nome = sc.next();
 
             System.out.print("Insira o marca do console: ");
-            String marca = sc.nextLine();
+            String marca = sc.next();
 
             System.out.print("Insira o modelo do console: ");
-            String modelo = sc.nextLine();
+            String modelo = sc.next();
             
             System.out.print("Insira o hd do console: ");
             double hd = sc.nextDouble();
