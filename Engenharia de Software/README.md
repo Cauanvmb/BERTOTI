@@ -91,3 +91,4 @@ Fazer diagrama de caso de uso <br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/ec24da8b-dff4-4e41-8b6b-8b03cc84078b)<br>
 (nas classes Console e especificações só tem os getters, setters e construtor)
 
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/581d7ec7-9877-4b60-a050-5f3d465797d3)
