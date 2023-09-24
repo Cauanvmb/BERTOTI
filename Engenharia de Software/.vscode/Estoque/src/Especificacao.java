@@ -1,15 +1,23 @@
 public class Especificacao {
+    private int id;
     private String marca;
     private String modelo;
     private double hd;
     private String cor;
     
     
-    public Especificacao(String marca, String modelo, double hd, String cor) {
+    public Especificacao(String marca, String modelo, double hd, String cor, int id) {
         this.marca = marca;
         this.modelo = modelo;
         this.hd = hd;
         this.cor = cor;
+        this.id = id;
+    }
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
     }
     public String getMarca() {
         return marca;
@@ -34,6 +42,9 @@ public class Especificacao {
     }
     public void setCor(String cor) {
         this.cor = cor;
+    }
+    public Especificacao(int id) {
+        this.id = id;
     }
 
 }

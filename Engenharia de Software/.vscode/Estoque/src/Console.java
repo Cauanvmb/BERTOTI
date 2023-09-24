@@ -1,9 +1,7 @@
-import java.util.List;
 
 public class Console{
     private String nome;
     private Especificacao espec;
-    List<Console> Lista;
 
     public Console(String nome, Especificacao espec) {
         this.nome = nome;
@@ -15,6 +13,7 @@ public class Console{
     public void setNome(String nome) {
         this.nome = nome;
     }
+
     public Especificacao getEspec() {
         return espec;
     }
@@ -23,7 +22,8 @@ public class Console{
     }
     @Override
     public String toString() {
-    return "Nome: " + nome + System.lineSeparator() +
+    return "id : " + espec.getId() + System.lineSeparator() +
+            "Nome: " + nome + System.lineSeparator() +
            "Marca: " + espec.getMarca() + System.lineSeparator() +
            "Modelo: " + espec.getModelo() + System.lineSeparator() +
            "HD: " + espec.getHd() + " GB" + System.lineSeparator() +
