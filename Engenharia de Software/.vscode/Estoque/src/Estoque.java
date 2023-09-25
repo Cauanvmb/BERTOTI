@@ -1,8 +1,6 @@
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
-
 public class Estoque {
             ArrayList<Console> estoqueConsoles = new ArrayList<Console>();
             Scanner sc = new Scanner(System.in);
@@ -19,13 +17,10 @@ public class Estoque {
                 }
                 else if(numero==2){
                     removerPorId();
-                }   
-
+                }
                 }while(numero > -1 && numero < 3);
             }
-        
-        public void adicionar(){
-                    
+        public void adicionar(){   
                     System.out.print("Insira quantas quer inserir no estoque: ");
                     int adicionando = sc.nextInt();
                     for (int i = 0; i<adicionando;i+=1){
@@ -57,7 +52,6 @@ public class Estoque {
         }
         public void removerPorId() {
             Scanner sc = new Scanner(System.in);
-        
             int id;
             while (true) {
                 try {
@@ -71,18 +65,15 @@ public class Estoque {
                 }
             }
             Iterator<Console> iterator = estoqueConsoles.iterator();
-        
             while (iterator.hasNext()) {
                 Console console = iterator.next();
                 if (console.getEspec().getId() == id) {
                     iterator.remove();
                     System.out.println("Item removido com sucesso.");
                     System.out.println(estoqueConsoles);
-                    return;
-                    
+                    return;  
                 }
             }
-        
             System.out.println("Nenhum item com o ID fornecido foi encontrado.");
             sc.close();
         }
