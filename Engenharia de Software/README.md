@@ -84,11 +84,16 @@ segurança x praticidade <br>
 Fazer diagrama de caso de uso <br>
 ![diagrama de caso de uso](https://github.com/Cauanvmb/BERTOTI/assets/127343662/88da6dec-856f-4f55-9a77-9467e469c56c)
 
-![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/f59200df-9c1a-4d56-a70f-93130b01d5ab)
-
-![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/face576a-4dbb-4a3f-9f6e-fd1666fc4c71)
-
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/f59200df-9c1a-4d56-a70f-93130b01d5ab)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/face576a-4dbb-4a3f-9f6e-fd1666fc4c71)<br>
+# Exercício 5
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/ec24da8b-dff4-4e41-8b6b-8b03cc84078b)<br>
-(nas classes Console e especificações só tem os getters, setters e construtor)
-
+(nas classes Console e especificações só tem os getters, setters e construtor)<br>
+desenvolvendo o exercicio 4<br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/581d7ec7-9877-4b60-a050-5f3d465797d3)
+
+# nova versão do exercício 5 (provavelmente a final)
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/f4f5d8db-1ebd-44cb-8f14-f3150fbf5ff6)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/c1e3239b-40e8-4478-a198-9d948cb1a44f)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/80b51310-e9f2-427b-b7b1-3c402ca8f06a)<br>
+irei desenvolver o UML a partir dai porque tive que fazer umas mudanças porque eu tava viajando com umas noções erradas de main e classes sabe.<br>
