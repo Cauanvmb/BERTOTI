@@ -75,6 +75,7 @@ public class Estoque {
                 }
             }
             System.out.println("Nenhum item com o ID fornecido foi encontrado.");
+            System.out.println(estoqueConsoles);
             sc.close();
         }
 }
