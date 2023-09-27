@@ -9,21 +9,21 @@ public class Estoque {
                 do {
                 System.out.printf("%nA operação que deseja fazer: %n%nSe quiser ver apenas imprimir o estoque insira 0%n%nSe deseja adicionar console(s) ao estoque insira 1%n%nSe deseja remover um item da lista insira 2%n%n");
                 numero = sc.nextInt();
-                if (numero == 1){
+                if (numero == 1) {
                     adicionar();
                 }
-                else if(numero == 0){
+                else if(numero == 0) {
                     verLista();
                 }
-                else if(numero==2){
+                else if(numero==2) {
                     removerPorId();
                 }
-                }while(numero > -1 && numero < 3);
+                } while(numero > -1 && numero < 3);
             }
-        public void adicionar(){   
+        public void adicionar() {   
                     System.out.print("Insira quantas quer inserir no estoque: ");
                     int adicionando = sc.nextInt();
-                    for (int i = 0; i<adicionando;i+=1){
+                    for (int i = 0; i<adicionando;i+=1) {
                     sc.nextLine();
                     System.out.print("Insira o id do console: ");
                     int id = sc.nextInt();
@@ -46,7 +46,7 @@ public class Estoque {
                     System.out.println(estoqueConsoles);
                 }
         }
-        public void verLista(){
+        public void verLista() {
             System.out.printf("%n%nAqui está o conteúdo do Estoque.%n%n");
             System.out.println(estoqueConsoles);
         }
