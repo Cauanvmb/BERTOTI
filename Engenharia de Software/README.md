@@ -102,4 +102,9 @@ irei desenvolver o UML a partir dai porque tive que fazer umas mudanças porque 
 Finalizado o UML do meu código <br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/d6015fab-919d-4f14-81c0-9c43454673da)<br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/e792c2da-46a8-4ba5-8f7a-9499b94bb4b3)<br>
-
+Por conta de alguns teste unitário tive que mudar o código novamente.(apenas no método removerPorId)<br>
+# Finalmente essa foi a última mudança do código
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/5c05f4f2-3e0d-4232-9c9d-a5a608799bfb)<br>
+<br>
+<br>
+Obrigado pela atenção!
