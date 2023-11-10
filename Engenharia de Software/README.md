@@ -101,10 +101,13 @@ desenvolvendo o exercicio 4<br>
 irei desenvolver o UML a partir dai porque tive que fazer umas mudanças porque eu tava viajando com umas noções erradas de main e classes sabe.<br>
 Finalizado o UML do meu código <br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/d6015fab-919d-4f14-81c0-9c43454673da)<br>
+# Teste do código
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/e792c2da-46a8-4ba5-8f7a-9499b94bb4b3)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/1e35672c-75c5-40c5-9318-9dfaaead6ef8)<br>
 Por conta de alguns teste unitário tive que mudar o código novamente.(apenas no método removerPorId)<br>
-# Finalmente essa foi a última mudança do código
+# Finalmente essa foram as última mudança do código
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/5c05f4f2-3e0d-4232-9c9d-a5a608799bfb)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/faa1ca86-f647-4cd7-bdd7-36daf663b8be)<br>
 <br>
 <br>
 Obrigado pela atenção!
