@@ -101,3 +101,5 @@ desenvolvendo o exercicio 4<br>
 irei desenvolver o UML a partir dai porque tive que fazer umas mudanças porque eu tava viajando com umas noções erradas de main e classes sabe.<br>
 Finalizado o UML do meu código <br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/d6015fab-919d-4f14-81c0-9c43454673da)<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/e792c2da-46a8-4ba5-8f7a-9499b94bb4b3)<br>
+
