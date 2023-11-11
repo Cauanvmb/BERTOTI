@@ -102,6 +102,7 @@ irei desenvolver o UML a partir dai porque tive que fazer umas mudanças porque 
 Finalizado o UML do meu código <br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/d6015fab-919d-4f14-81c0-9c43454673da)<br>
 # Teste do código
+Código dos testes dentro do repositório DEMO (desculpa por fazer você checar o outro)<br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/e792c2da-46a8-4ba5-8f7a-9499b94bb4b3)<br>
 ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/1e35672c-75c5-40c5-9318-9dfaaead6ef8)<br>
 Por conta de alguns teste unitário tive que mudar o código novamente.(apenas no método removerPorId)<br>
