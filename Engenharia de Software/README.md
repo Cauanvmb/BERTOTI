@@ -27,18 +27,32 @@ Em resumo, o autor está discutindo a relação entre programação e engenharia
 
 # Exercício 2<br>
 ## Três exemplos de trade-off
-portabilidade x simplicidade <br>
 
-usabilidade x segurança <br>
+Portabilidade x Simplicidade:<br>
 
-escalibilidade x complexibilidade <br>
+Trade-off: Um sistema altamente portátil pode ser complexo devido à necessidade de suportar uma variedade de dispositivos e plataformas.<br>
+Razão do trade-off: Ao buscar maior portabilidade, pode ser necessário comprometer a simplicidade para lidar com as nuances de diferentes ambientes.<br>
+Usabilidade x Segurança:<br>
+<br>
+Trade-off: Implementar medidas rigorosas de segurança pode resultar em uma experiência de usuário menos amigável.<br>
+Razão do trade-off: Equilibrar usabilidade e segurança é desafiador, pois medidas de segurança adicionais podem introduzir etapas extras ou restrições para os usuários.<br>
+Escalabilidade x Complexidade:<br>
 
-portabilidade x capacidade <br>
+Trade-off: Tornar um sistema altamente escalável pode aumentar sua complexidade.<br>
+Razão do trade-off: À medida que um sistema precisa lidar com maior volume, pode ser necessário introduzir estruturas mais complexas para garantir sua escalabilidade.<br>
+Portabilidade x Capacidade:<br>
+<br>
+Trade-off: Focar na portabilidade pode limitar a capacidade de processamento ou armazenamento do sistema.<br>
+Razão do trade-off: Dispositivos mais portáteis geralmente têm recursos limitados em comparação com sistemas mais robustos.<br>
+Tendência x Regionalidade:<br>
 
-tendência x regionalidade <br>
+Trade-off: Seguir tendências globais pode entrar em conflito com as preferências e necessidades regionais específicas.<br>
+Razão do trade-off: As tendências globais podem não se alinhar totalmente com as expectativas e práticas culturais locais.<br>
+Segurança x Praticidade:<br>
 
-segurança x praticidade <br>
-
+Trade-off: Medidas de segurança rigorosas podem tornar uma solução menos prática para os usuários.<br>
+Razão do trade-off: É comum encontrar o equilíbrio entre manter a segurança e garantir que o sistema seja fácil de usar.<br>
+<br>
 # Exercício 3<br>
 
 1. Visibilidade do status do sistema:<br>
