@@ -33,6 +33,7 @@ Portabilidade x Simplicidade:<br>
 Trade-off: Um sistema altamente portátil pode ser complexo devido à necessidade de suportar uma variedade de dispositivos e plataformas.<br>
 Razão do trade-off: Ao buscar maior portabilidade, pode ser necessário comprometer a simplicidade para lidar com as nuances de diferentes ambientes.<br>
 Usabilidade x Segurança:<br>
+
 <br>
 Trade-off: Implementar medidas rigorosas de segurança pode resultar em uma experiência de usuário menos amigável.<br>
 Razão do trade-off: Equilibrar usabilidade e segurança é desafiador, pois medidas de segurança adicionais podem introduzir etapas extras ou restrições para os usuários.<br>
@@ -58,42 +59,56 @@ Razão do trade-off: É comum encontrar o equilíbrio entre manter a segurança 
 1. Visibilidade do status do sistema:<br>
    - Acerto: Um aplicativo de streaming de música exibe uma barra de progresso enquanto a música está sendo carregada, indicando que a reprodução está prestes a começar.<br>
    - Erro: Um aplicativo de processamento de texto não mostra nenhuma indicação visual de que o documento foi salvo, deixando o usuário incerto se suas alterações foram registradas.<br>
+   ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/db1b9285-3dda-42b3-9b8f-5196b23753d8)<br>
+
 
 2. Correspondência entre o sistema e o mundo real:<br>
    - Acerto: Um aplicativo de mapas utiliza ícones de estrada e sinais de trânsito reconhecíveis para representar as direções, facilitando a compreensão dos usuários.<br>
    - Erro: Um aplicativo de organização de tarefas usa um ícone de "envelope" para representar a função de enviar tarefas a outras pessoas, o que não é uma correspondência clara.<br>
+   ![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/17359a3b-4db0-4c02-ac73-3d8a6a7dddbc)<br>
+
 
 3. Controle e liberdade do usuário:<br>
    - Acerto: Um software de design gráfico permite que os usuários desfaçam ações em várias etapas, voltando ao estado anterior da criação.<br>
    - Erro: Um aplicativo de edição de vídeo não permite que os usuários cancelem uma ação de corte, resultando na perda permanente de partes do vídeo.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/36d13fc0-31dd-423d-a614-56f40f9136e2)<br>
 
 4. Consistência e padrões:<br>
    - Acerto: Uma suíte de aplicativos de escritório mantém a mesma organização de menus e opções em todos os programas, como processador de texto, planilha e apresentação.<br>
    - Erro: Um site de comércio eletrônico usa diferentes estilos de botões para "Adicionar ao Carrinho" em diferentes páginas, levando à confusão.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/56504e1f-6158-497d-af86-d7b2f1f25fcb)<br>
 
 5. Prevenção de erros:
    - Acerto: Um aplicativo de calendário não permite que o usuário agende eventos com datas conflitantes, evitando conflitos e sobreposições.<br>
    - Erro: Um sistema de pagamento online não possui validações para números de cartão de crédito incorretos, permitindo que os usuários insiram informações inválidas.<br>
+![Imagem do WhatsApp de 2023-11-17 à(s) 10 28 11_0f4c8491](https://github.com/Cauanvmb/BERTOTI/assets/127343662/7748c007-c736-4347-801e-0fc9f5543522)<br>
 
 6. Reconhecimento em vez de lembrança:<br>
    - Acerto: Um aplicativo de reserva de hotéis mostra uma lista de opções de quartos durante o processo de reserva, eliminando a necessidade de os usuários lembrarem os detalhes.<br>
    - Erro: Um aplicativo de gerenciamento de senha não exibe sugestões de senha ao criar uma conta, forçando os usuários a criarem senhas complexas por conta própria.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/3e804b56-6d57-48e7-a7d5-332c5736dc5d)<br>
 
 7. Flexibilidade e eficiência de uso:<br>
    - Acerto: Um sistema de e-mail permite que os usuários atribuam atalhos de teclado personalizados para ações frequentes, como marcar e-mails como importantes.<br>
    - Erro: Um aplicativo de edição de imagem não oferece a opção de personalizar atalhos de teclado, dificultando a realização rápida de tarefas comuns.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/0062ac8e-35b9-45ae-a050-723d524665f3)<br>
 
 8. Estética e design minimalista:<br>
    - Acerto: Um aplicativo de lembretes utiliza uma interface limpa e livre de distrações, destacando apenas as informações essenciais.<br>
    - Erro: Um aplicativo de notícias apresenta anúncios pop-up intrusivos que interferem na experiência de leitura do usuário.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/795c9ae4-a7ea-438c-8c0f-6ab87e4b0c2b)<br>
 
 9. Ajuda e documentação:<br>
    - Acerto: Um software de contabilidade oferece tutoriais em vídeo e guias passo a passo para ajudar os usuários a entenderem os recursos avançados.<br>
    - Erro: Um aplicativo de edição de vídeo não inclui nenhuma seção de ajuda ou documentação, deixando os usuários sem orientação para aprender a usar suas ferramentas.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/31f24740-081b-4506-b547-a31f6212dbec)<br>
 
 10. Reconhecimento, diagnóstico e recuperação de erros:<br>
     - Acerto: Um aplicativo de edição de texto realça em vermelho as palavras com erros ortográficos e sugere correções à medida que o usuário digita.<br>
     - Erro: Um aplicativo de preenchimento automático não fornece nenhuma sugestão quando o usuário insere informações incorretas em um formulário.<br>
+![image](https://github.com/Cauanvmb/BERTOTI/assets/127343662/055f696e-7ab4-4257-a943-b63731381444)<br>
+
+
 # Exercício 4<br>
 Fazer diagrama de caso de uso <br>
 ![diagrama de caso de uso](https://github.com/Cauanvmb/BERTOTI/assets/127343662/88da6dec-856f-4f55-9a77-9467e469c56c)
