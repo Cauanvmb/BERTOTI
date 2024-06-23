@@ -46,7 +46,7 @@ input {
 
 button {
     padding: 10px;
-    background-color: #007BFF;
+    background-color: #cc00ff7e;
     color: white;
     border: none;
     cursor: pointer;
@@ -56,7 +56,7 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #cc00ff7e;
 }
 
 ul {
