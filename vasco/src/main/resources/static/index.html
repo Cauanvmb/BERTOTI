@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Console Management</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <h1>Console Management</h1>
+
+    <div class="container">
+        <div class="form-section">
+            <h2>Add Console</h2>
+            <form id="addConsoleForm">
+                <label for="addName">Name:</label>
+                <input type="text" id="addName" name="addName" required>
+                <label for="addValue">Value:</label>
+                <input type="text" id="addValue" name="addValue" required>
+                <button type="submit">Add Console</button>
+            </form>
+        </div>
+
+        <div class="form-section">
+            <h2>Update Console</h2>
+            <form id="updateConsoleForm">
+                <label for="updateIndex">Index:</label>
+                <input type="number" id="updateIndex" name="updateIndex" required>
+                <label for="updateName">New Name:</label>
+                <input type="text" id="updateName" name="updateName" required>
+                <label for="updateValue">New Value:</label>
+                <input type="text" id="updateValue" name="updateValue" required>
+                <button type="submit">Update Console</button>
+            </form>
+        </div>
+
+        <div class="form-section">
+            <h2>Delete Console</h2>
+            <form id="deleteConsoleForm">
+                <label for="deleteIndex">Index:</label>
+                <input type="number" id="deleteIndex" name="deleteIndex" required>
+                <button type="submit">Delete Console</button>
+            </form>
+        </div>
+
+        <div class="form-section">
+            <h2>View Consoles</h2>
+            <button id="viewConsolesButton">View Consoles</button>
+            <ul id="consoleList"></ul>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('addConsoleForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const name = document.getElementById('addName').value;
+            const value = document.getElementById('addValue').value;
+            fetch('/consoles', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({name: name, value: value})
+            })
+            .then(response => response.json())
+            .then(console => {
+                alert(`Console added: ${console.name}`);
+                document.getElementById('addConsoleForm').reset();
+            });
+        });
+
+        document.getElementById('updateConsoleForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const index = document.getElementById('updateIndex').value;
+            const name = document.getElementById('updateName').value;
+            const value = document.getElementById('updateValue').value;
+            fetch(`/consoles/${index}`, {
+                method: 'PUT',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({name: name, value: value})
+            })
+            .then(response => response.json())
+            .then(console => {
+                alert(`Console updated: ${console.name}`);
+                document.getElementById('updateConsoleForm').reset();
+            });
+        });
+
+        document.getElementById('deleteConsoleForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const index = document.getElementById('deleteIndex').value;
+            fetch(`/consoles/${index}`, {
+                method: 'DELETE'
+            })
+            .then(response => response.json())
+            .then(console => {
+                alert(`Console deleted: ${console.name}`);
+                document.getElementById('deleteConsoleForm').reset();
+            });
+        });
+
+        document.getElementById('viewConsolesButton').addEventListener('click', function() {
+            fetch('/consoles')
+                .then(response => response.json())
+                .then(consoles => {
+                    const consoleList = document.getElementById('consoleList');
+                    consoleList.innerHTML = '';
+                    consoles.forEach((console, index) => {
+                        consoleList.innerHTML += `<li>${index}: ${console.name} - ${console.value}</li>`;
+                    });
+                });
+        });
+    </script>
+</body>
+</html>

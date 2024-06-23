@@ -1,13 +1,12 @@
-package com.console.otavio;
+package com.console.vasco;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OtavioApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OtavioApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
-
 }
