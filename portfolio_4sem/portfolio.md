@@ -27,39 +27,35 @@ A Dom Rock possui uma arquitetura de processamento de dados em cadeia chamada pi
 ### Tecnologias Utilizadas
 
 
-1. Java
+1. Java<br>
 Linguagem de programação amplamente usada para desenvolvimento da aplicação, utilizado somente no backend. Foi importante para criar uma aplicação robusta e escalável.
 
-2. Spring
+2. Spring<br>
 Framework para desenvolvimento de aplicações Java, ofereceu suporte para injeção de dependências, gerenciamento de transações e criação de APIs REST. Facilitando a criação de aplicações web e microserviços.
 
-3. HTML é uma linguagem de marcação utilizada na construção de páginas na Web.
+3. HTML <br>
+Linguagem de marcação utilizada na construção de páginas na Web.
 
-4. CSS
+4. CSS<br>
 Linguagem de estilo usada para descrever a apresentação de documentos HTML. Foi importante para estilizar e formatar páginas web, melhorando a aparência e a experiência do usuário.
 
-5. Vue.js
+5. Vue.js<br>
 Framework JavaScript para construção de interfaces de usuário interativas. Facilita a criação de aplicações web dinâmicas e reativas com uma arquitetura de componentes.
 
-6. MySQL
+6. MySQL<br>
 Sistema de gerenciamento de banco de dados relacional. Crucial para armazenar e gerenciar dados de forma estruturada em aplicações web.
 
-7. Git
+7. Git<br>
 Sistema de controle de versão distribuído. Essencial para rastrear mudanças no código-fonte e colaborar com outros desenvolvedores de forma eficiente.
 
-8. GitHub
+8. GitHub<br>
 Plataforma de hospedagem para projetos que utilizam Git. Importante para o compartilhamento de código, colaboração e controle de versão em projetos de software.
 
-9. IntelliJ IDEA
-Ambiente de desenvolvimento integrado (IDE) para programação Java e outros idiomas. Facilita o desenvolvimento com suporte avançado para código, debugging e testes.
-
-10. WebStorm
-IDE da JetBrains focada em JavaScript, HTML e CSS. Ideal para o desenvolvimento de aplicações web modernas e front-end.
-
-11. Stack Overflow
+9. Stack Overflow<br>
 Plataforma de perguntas e respostas para desenvolvedores. Importante para obter suporte, resolver problemas e aprender com a comunidade de programadores.
 
-
+10. Visual Studio<br>
+Editor de código-fonte leve, mas poderoso, que é executado na área de trabalho e está disponível para Windows, macOS e Linux.
 ## Contribuições pessoais
 
 <details>
