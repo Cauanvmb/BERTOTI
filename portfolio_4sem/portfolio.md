@@ -1,7 +1,7 @@
 # Cauan Vinicius Mendes Barbaglio
 
 ## Introdução
-Meu nome é Otavio Calderan, ingressei na Fatec no inicio de 2023, visando começar e desenvolver minha carreira profissional na área de T.I. Participei de projetos internos no qual me desenvolvi.
+Meu nome é Cauan Barbaglio, ingressei na Fatec no inicio de 2023, visando começar e desenvolver minha carreira profissional na área de T.I. Participei de projetos internos no qual me desenvolvi.
 
 ## Contatos
 
@@ -16,15 +16,8 @@ Meu nome é Otavio Calderan, ingressei na Fatec no inicio de 2023, visando come�
 ➡️[Spring Boot](https://docs.spring.io/spring-boot/index.html)
 <br>
 ➡️[MySQL](https://dev.mysql.com/doc/)
-➡️
 
 ## Meus Projetos
-
-### Em 2023-1
-Mesmo formato
-
-### Em 2023-2
-Mesmo formato
 
 ### Em 2024-1
 A Dom Rock possui uma arquitetura de processamento de dados em cadeia chamada pipeline, que inclui vários estágios. Esses estágios são orquestrados automaticamente com base nas características das fontes de dados e nas soluções de algoritmos de IA ou modelos matemáticos, conforme as necessidades dos clientes. Durante a implantação da solução, é necessário configurar as fontes de dados envolvidas para que a plataforma funcione corretamente. Atualmente, essa configuração é feita manualmente, o que é um passo crítico e demorado para os técnicos. O desafio, portanto, é criar uma interface amigável para facilitar essa configuração das fontes de dados.
@@ -33,7 +26,6 @@ A Dom Rock possui uma arquitetura de processamento de dados em cadeia chamada pi
 
 ### Tecnologias Utilizadas
 
-![alt text](image-1.png)
 
 1. Java
 Linguagem de programação amplamente usada para desenvolvimento da aplicação, utilizado somente no backend. Foi importante para criar uma aplicação robusta e escalável.
