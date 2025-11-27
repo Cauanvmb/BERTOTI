@@ -185,3 +185,5 @@ Durante o desenvolvimento do LuminIA, aprofundei e utilizei as seguintes compet�
 - Organização e documentação técnica detalhada.
 
 - Adaptação rápida a tecnologias novas (IA, ETL, dashboards).
+
+[Repositório do projeto Luminia](https://github.com/new-ge/Luminia)
