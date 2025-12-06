@@ -2,7 +2,8 @@
 
 ## Sobre Mim
 
-Olá! Meu nome é **Cauan Vinicius Mendes Barbaglio**. Sou estudante da Fatec desde 2023, com interesse nas áreas de **Ciência de Dados**.
+Olá! Meu nome é **Cauan Vinicius Mendes Barbaglio**. Sou estudante da Fatec desde 2023, com interesse nas áreas de **Análise de dados**. Iniciei meus estudos na área da mecânica com um curso técnico realizado pelo CEPHAS, durante esse período tive várias dúvidas de como seguir minha carreira e tive fortes indicações de professores para a área de Tecnologia da informação, por conta disso, em 2023, ao 
+curso de Banco de dados da FATEC São José dos Campos.
 
 ## Contatos
 
@@ -212,10 +213,119 @@ A solução utiliza um backend em Java com Spring Boot e integração com banco 
 | IDEs                   | IntelliJ IDEA / VS Code | Sei usar com autonomia  |
 
 ### Soft Skills
-
-- Liderança técnica e organização de sprints como Scrum Master  
+  
 - Comunicação clara nas reuniões e alinhamentos com a equipe  
 - Colaboração proativa com divisão e revisão de tarefas  
 - Foco na entrega de valor e qualidade do código  
 - Facilidade de adaptação a novos conceitos e tecnologias  
 
+---
+
+## Plataforma de acompanhamento VISION (2025-1)
+
+**Descrição:**  
+Neste desafio precisamos que seja desenvolvida uma plataforma que integre ao banco de dados da ferramenta Taiga (https://taiga.io/), para gerar diferentes indicadores, facilitando a visualização de informações relacionadas ao andamento de projetos.
+
+A proposta é criar a VISION, uma ferramenta de visualização de indicadores integrada à plataforma Taiga, com foco em tornar a gestão de projetos mais eficiente, visual e transparente. A Vision permitire que usuários acompanhem o progresso de tarefas através de dados como tempo médio de finalização, distribuição de responsabilidades, uso de etiquetas e entre outros.
+
+🔗 *[Repositório no GitHub](https://github.com/new-ge/VISION)*
+
+**Tecnologias Usadas:**  
+- Figma
+- Java
+- Jira
+- git
+- PostMan
+- HTML
+- JavaScript
+- Vue.js
+- VS Code
+- Github
+- TypeScript
+- Spring Boot
+- PostgreSQL
+- docker
+- swagger
+
+**Principais Contribuições:**  
+
+- Implementação do banco de dados via Flyway
+- Desenvolvimento da estrutura do banco datawarehouse 
+- Desenvolvimento de métodos de consulta no banco de dados com as bibliotecas `GET`, `POST`, `PUT`
+- Desenvolvimento de DEVOPS sendo o foco em Continuous Integration
+
+---
+
+## Resumo de Competências
+
+### Hard Skills
+
+| Área                   | Ferramenta/Conceito     | Nível                   |
+|------------------------|-------------------------|-------------------------|
+| Programação Backend    | Java                    | Sei usar com consulta   |
+| Framework Backend      | Spring Boot             | Sei usar com consulta   |
+| API REST + Documentação| Swagger                 | Sei usar com autonomia  |
+| Banco de Dados         | PostgreSQL              | Sei usar com consulta   |
+| Programação Frontend   | Vue.js                  | Sei usar com consulta   |
+| Versionamento          | Git / GitHub            | Sei usar com autonomia  |
+| IDEs                   | VS Code                 | Sei usar com autonomia  |
+
+### Soft Skills
+
+- Comunicação clara nas reuniões e alinhamentos com a equipe  
+- Colaboração proativa para melhor desenvolvimento do CI  
+- Foco na entrega de valor e qualidade do código  
+- Facilidade de adaptação a novos conceitos e tecnologias
+
+---
+
+## Plataforma de acompanhamento VISION (2025-1)
+
+**Descrição:**  
+A situação atual demonstra que a base de dados de suporte já não atende às necessidades operacionais: não garante plenamente a conformidade com a legislação, não oferece clareza suficiente para auditorias e não facilita análises históricas ou preditivas. Isso significa que os relatórios acabam sendo rígidos e repetitivos, sem fornecer uma visão completa para os tomadores de decisão. A proposta de modernização busca sanar essas limitações, trazendo mais segurança no tratamento de dados, transparência nas ações de monitoramento e painéis de controle que auxiliam todos os níveis da equipe — de analistas a gerentes e stakeholders estratégicos — a visualizar exatamente as informações de que precisam para trabalhar com mais eficiência.
+
+LuminIA é um painel de controle integrado com inteligência artificial, cuidadosamente desenvolvido para facilitar e otimizar a tomada de decisões gerenciais, ao mesmo tempo que oferece suporte contínuo aos analistas no gerenciamento de chamados. Com insights estratégicos e reforço de IA, o LuminIA transforma informações complexas em ações concretas, tornando todo o processo de suporte mais eficiente, ágil, inteligente e alinhado às necessidades do negócio. Tudo isso é oferecido por meio de uma ferramenta moderna, intuitiva e fácil de usar, projetada para que gerentes e analistas possam acessar os dados rapidamente.
+
+🔗 *[Repositório no GitHub](https://github.com/new-ge/Luminia)*
+
+**Tecnologias Usadas:**  
+- Figma
+- Python
+- Jira
+- git
+- HTML
+- JavaScript
+- Vue.js
+- VS Code
+- Github
+- TypeScript
+- MongoDB
+
+**Principais Contribuições:**  
+
+- Desenvolvimento dos protótipos de cada Sprint para time de desenvolvimento
+- Desenvolvimento da documentação da aplicação
+- Adaptação da solicitações de LGPD para o projeto
+
+---
+
+## Resumo de Competências
+
+### Hard Skills
+
+| Área                   | Ferramenta/Conceito     | Nível                   |
+|------------------------|-------------------------|-------------------------|
+| Programação Backend    | Python                  | Sei usar com consulta   |
+| Framework Backend      | Spring Boot             | Sei usar com consulta   |
+| API REST + Documentação| Swagger                 | Sei usar com autonomia  |
+| Banco de Dados         | PostgreSQL              | Sei usar com consulta   |
+| Programação Frontend   | Vue.js                  | Sei usar com consulta   |
+| Versionamento          | Git / GitHub            | Sei usar com autonomia  |
+| IDEs                   | VS Code                 | Sei usar com autonomia  |
+
+### Soft Skills
+
+- Comunicação clara nas reuniões e alinhamentos com a equipe   
+- Comunicação clara nas reuniões e alinhamentos com o cliente   
+- Foco na entrega de valor e qualidade dos protótipos
+- Facilidade de adaptação a novos conceitos e tecnologias
